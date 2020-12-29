@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on my GitHub projects
 
 <br>
-
 ### ```Contact:```
 **Discord**: AdvancedCode#2217
 <br>
