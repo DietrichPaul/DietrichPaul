@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am a lazy hobby developer who works with the object-oriented language Java 😉
+## I am a lazy hobby developer who works with Java and Python 😉
 
 - 🔭 I’m currently working on my GitHub projects
 <br>
