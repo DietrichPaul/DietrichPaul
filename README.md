@@ -9,5 +9,3 @@
 **Discord**: AdvancedCode#2217
 <br>
 **Email**: advancedcode@ctcraft.de
-
-<a href="JavaScript:window.close()">Close</a>
